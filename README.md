@@ -77,6 +77,7 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 - 🔌 - [IoT](#iot)
 - 🧑‍🎨 - [Art & Literature](#art-literature)
 - 🛒 - [E-Commerce](#e-commerce)
+- 🚛 - [Logistics](#logistics)
 - 📦 - [Data Platforms](#data-platforms)
 - 🤖 - [Robotics & Physical AI](#robotics)
 
@@ -487,6 +488,14 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://shopsavvy.com/favicon.ico" height="14" alt="ShopSavvy Logo" /> **[ShopSavvy](https://github.com/shopsavvy/shopsavvy-mcp-server)**<sup><sup>⭐</sup></sup> - Complete product and pricing data solution for AI assistants. Search for products by barcode/ASIN/URL, access detailed product metadata, access comprehensive pricing data from thousands of retailers, view and track price history, and more. Published as `@shopsavvy/mcp-server`.
 
 <br />
+
+## 🚛 <a name="logistics"></a>Logistics
+
+> Freight marketplace and electronic consignment note management for logistics and transportation operations.
+
+- [cargoffer/bolsa_de_carga-mcp](https://github.com/cargoffer/bolsa_de_carga-mcp) - Freight marketplace/load board MCP server. Tools for managing addresses, truckers, vehicles, deliveries, and auctions. Enables AI agents to interact with freight loads, bids, and logistics operations.
+- [cargoffer/ecmr-mcp](https://github.com/cargoffer/ecmr-mcp) - Electronic Consignment Note (eCMR) MCP server. Tools for managing drivers, vehicles, addresses, digital signatures, eCMR creation, QR codes, and PDF generation.
+
 
 ## 📦 <a name="data-platforms"></a>Data Platforms
 
