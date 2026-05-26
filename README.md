@@ -493,8 +493,9 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Freight marketplace and electronic consignment note management for logistics and transportation operations.
 
-- [cargoffer/bolsa_de_carga-mcp](https://github.com/cargoffer/bolsa_de_carga-mcp) - Freight marketplace/load board MCP server. Tools for managing addresses, truckers, vehicles, deliveries, and auctions. Enables AI agents to interact with freight loads, bids, and logistics operations.
-- [cargoffer/ecmr-mcp](https://github.com/cargoffer/ecmr-mcp) - Electronic Consignment Note (eCMR) MCP server. Tools for managing drivers, vehicles, addresses, digital signatures, eCMR creation, QR codes, and PDF generation.
+|- [cargoffer/bolsa_de_carga-mcp](https://github.com/cargoffer/bolsa_de_carga-mcp) [![cargoffer/bolsa_de_carga-mcp MCP server](https://glama.ai/mcp/servers/cargoffer/bolsa_de_carga-mcp/badges/score.svg)](https://glama.ai/mcp/servers/cargoffer/bolsa_de_carga-mcp) - Freight marketplace/load board MCP server. Tools for managing addresses, truckers, vehicles, deliveries, and auctions. Enables AI agents to interact with freight loads, bids, and logistics operations.
+|- [cargoffer/ecmr-mcp](https://github.com/cargoffer/ecmr-mcp) [![cargoffer/ecmr-mcp MCP server](https://glama.ai/mcp/servers/cargoffer/ecmr-mcp/badges/score.svg)](https://glama.ai/mcp/servers/cargoffer/ecmr-mcp) - Electronic Consignment Note (eCMR) MCP server. Tools for managing drivers, vehicles, addresses, digital signatures, eCMR creation, QR codes, and PDF generation.
+|- [cargoffer/transcend-mcp-server](https://github.com/cargoffer/transcend-mcp-server) [![cargoffer/transcend-mcp-server MCP server](https://glama.ai/mcp/servers/cargoffer/transcend-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/cargoffer/transcend-mcp-server) - AI-powered route optimization MCP server for heavy vehicles. Calculate truck routes, predict traffic with LSTM, compute tolls, fuel costs and CO2. Find truck stops and check weather along European routes.
 
 
 ## 📦 <a name="data-platforms"></a>Data Platforms
